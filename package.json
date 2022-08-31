@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "moment": "2.24.0",
-    "moment-timezone": "^0.5.28"
+    "moment-timezone": "^0.5.35"
   },
   "resolutions": {
     "moment": "2.24.0"
